@@ -31,14 +31,14 @@ body{
 .mainMen {
     position : absolute ;
     left :40%;
-    top : 30px;
+    top : 40px;
     font-size:xx-large;
 }
 #headerBar img {
-    height : 50px;
+    height : 64px;
     position :relative;
     left : 10px;
-    top : 25px;
+    top : 16px;
 }
 
 #signInButton
@@ -47,16 +47,16 @@ body{
     width: 80px;
     text-align: center;
     position : relative ;
-    right : -87%;
-    top : -35px;
+    right : -80%;
+    top : -32px;
     padding : 10px;
     border-radius: 10px;;
 }
 
 #signUp {
     position :  relative;
-    top : -27px;
-    right : -88%;
+    top : -60px;
+    right : -90%;
 }
 
 #mainSpace h1 {
