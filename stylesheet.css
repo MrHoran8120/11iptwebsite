@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(248, 248, 248);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    margin : 0px;
+}
+
+#mainSpace
+{
+    width : 50%;
+    margin : auto;
+    background-color: rgb(198, 215, 230);
+    padding : 5%;
+}
+
+#headerBar {
+    padding : 10px;
+    background-color : rgb(26, 21, 14);
+    color :rgb(248, 248, 248);
+    margin : auto;
+    position : sticky;
+    top:0;
+    opacity: 95%;
+    border-style: solid;
+    border-radius: 5px;
+    border-width : 1px;
+    border-color: rgb(212, 145, 57);
+    height : 95px;
+}
+
+.mainMen {
+    position : absolute ;
+    left :40%;
+    top : 30px;
+    font-size:xx-large;
+}
+#headerBar img {
+    height : 50px;
+    position :relative;
+    left : 10px;
+    top : 25px;
+}
+
+#signInButton
+{
+    background-color: brown;
+    width: 80px;
+    text-align: center;
+    position : relative ;
+    right : -87%;
+    top : -35px;
+    padding : 10px;
+    border-radius: 10px;;
+}
+
+#signUp {
+    position :  relative;
+    top : -27px;
+    right : -88%;
+}
+
+#mainSpace h1 {
+    text-align: center;
+    font-family: cursive;
+    line-height: 70px;
+}
+
+#mainSpace img {
+    float:left;
+    padding :10px;
+}
